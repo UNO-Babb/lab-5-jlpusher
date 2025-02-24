@@ -1,4 +1,8 @@
 #Caesar Cipher
+#Name: Jessica Pusher
+#Date: 2.23.25
+#Assignment: Caesar Cipher
+
 #The Caesar cipher moves each letter forward in the alphabet by
 #the key.  The resulting message has all the letters advanced by 'key'
 #letters.
